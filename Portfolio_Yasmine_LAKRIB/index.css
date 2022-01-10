@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&display=swap');
+body{
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+
+}
+.corps{
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.nav{
+    background-color: greenyellow;
+    width: auto;
+    height: auto;
+    vertical-align: middle;
+}
+.nav .navigation {
+ display: inline;
+ align-items: center;
+ justify-content: space-between;
+}
+.navigation{
+    max-width: 1300px;
+    padding: 0 80;
+    margin: auto;
+}
+.nav .menu li  {
+   list-style: none;
+   display: inline-block;
+}
+.nav .menu li a {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 500;
+    margin-left: 25px;
+
+}
+.image {
+    margin: auto;
+    width: 100%;}
+.titre {
+    color: rgb(5, 5, 5);
+    text-decoration: solid;
+    background-color: greenyellow;
+    width: 80px;
+    height: 20px;
+
+    
+}
+
+header { color: white;
+    color: rgb(255, 255, 255);
+}
+#h2 {color: rgb(183, 221, 13);
+    
+}
+.ana {
+    width: 992px;
+     height:1108px;
+}
+
+.intro { 
+    width: 100%;
+     height:1108;
+    
+}
+.me{color: rgb(0, 0, 0);
+    padding-left: 50px;
+    background-color: greenyellow;
+
+}
+#s1{
+    background-color:greenyellow;
+    width: 70%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s2{
+    background-color:greenyellow;
+    width: 50%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s3{
+    background-color:greenyellow;
+    width: 50%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s4{
+    background-color:greenyellow;
+    width: 50%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s5{
+    background-color:greenyellow;
+    width: 70%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s6{
+    background-color:greenyellow;
+    width: 50%;
+    height: 10px;
+    padding-left: 50px;
+}
+#s7{
+    background-color:greenyellow;
+    width: 80%;
+    height: 10px;
+    padding-left: 50px;
+}
+.S {
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 10px;
+}
+.btn {
+    background-color: greenyellow;
+    color: black;
+    text-size-adjust: 100%;
+    padding-left: auto;
+    float: right;
+}
+.nav {
+    padding-left: 20px;
+}
+.h2{
+    text-size-adjust: 20;
+}
+.h{
+    width: 100%;
+}
+.fas fa-paper-plane {
+    background-color: aliceblue;
+}
+.info {
+    background-color: greenyellow;
+    color: black;
+}
